@@ -1,0 +1,27 @@
+{
+  "name": "mindev-next-dep",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@mindev/min-cli": "2.0.0-alpha.1",
+    "@mindev/min-compiler-babel": "2.0.0",
+    "@mindev/min-compiler-less": "2.0.0",
+    "@mindev/min-compiler-postcss": "2.0.0",
+    "@mindev/min-compiler-pug": "2.0.0",
+    "@mindev/min-core": "2.0.0",
+    "@mindev/min-plugin-autoprefixer": "2.0.0",
+    "@mindev/min-plugin-filesync": "2.0.0",
+    "@minlib/min-async-await": "^2.0.0",
+    "babel-plugin-syntax-export-extensions": "^6.13.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-export-extensions": "^6.22.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kindy Lin",
+  "license": "ISC"
+}
